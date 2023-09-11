@@ -3,3 +3,5 @@
 
 untracked files are those that has to be added to commit
 	use git add . to add all files 
+	 to move from unstracked to staged use git add -A to make file ready to commit
+to commit git commit -m "msg"
