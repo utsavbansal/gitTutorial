@@ -1,0 +1,5 @@
+.git
+	HEAD config decsription hooks/ info/ objects/ refs/
+
+untracked files are those that has to be added to commit
+	use git add . to add all files 
