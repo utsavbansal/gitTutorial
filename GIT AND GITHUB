@@ -11,3 +11,5 @@ git remote rename origin upstream to rename origin
 Branch
 
 git checkout -b other to create other branch and switched to it
+
+git log --oneline --color --graph --decorate --all
