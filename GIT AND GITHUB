@@ -5,3 +5,9 @@ untracked files are those that has to be added to commit
 	use git add . to add all files 
 	 to move from unstracked to staged use git add -A to make file ready to commit
 to commit git commit -m "msg"
+
+git remote rename origin upstream to rename origin
+
+Branch
+
+git checkout -b other to create other branch and switched to it
